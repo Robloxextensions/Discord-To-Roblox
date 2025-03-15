@@ -1,4 +1,4 @@
-// Made by Stratiz
+// Made by morecompthanyou
 
 // init project
 const express = require('express');
