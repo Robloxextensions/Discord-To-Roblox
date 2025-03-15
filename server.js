@@ -55,7 +55,7 @@ function byUID(method,usr,message) {
       //.setAuthor('Roblox Error','')
       .setDescription("Attempting to "+method+" UserID "+ usr +"...")
       .setTimestamp()
-      .setFooter('Developed by Stratiz');
+      .setFooter('Developed by morecompthanyou');
     message.edit(Emb);
   https.get("https://api.roblox.com/users/" + usr, (res) => {
       
